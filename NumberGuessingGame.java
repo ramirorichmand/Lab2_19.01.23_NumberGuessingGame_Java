@@ -10,7 +10,7 @@ public class NumberGuessingGame {
         Scanner input = new Scanner(System.in);
         int guess;
 
-        //read BNTA textbook on while loops -> allow user as many attempts required
+        //read textbook on while loops -> allow user as many attempts required
         //while loop added from line 29
        do {
 

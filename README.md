@@ -1,4 +1,4 @@
-# Lab1901 NumberGuessingGame
+# Lab 19/01 Number Guessing Game
 
 Created a simple number guessing game, that takes in some user input and matches it to a 'secret' number.
 
